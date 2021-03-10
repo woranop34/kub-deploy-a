@@ -1,0 +1,25 @@
+{
+  "name": "kub_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server1":"node server1.js",
+    "server2":"node server2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woranop34/kub-deploy-a.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woranop34/kub-deploy-a/issues"
+  },
+  "homepage": "https://github.com/woranop34/kub-deploy-a#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
